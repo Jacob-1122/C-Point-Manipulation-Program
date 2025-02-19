@@ -8,14 +8,14 @@ This is a C++ program that reads 2D points from a file, analyzes their quadrant 
 ## 📂 File Structure
 - **Point.h** → Header file defining the `Point` class.
 - **Point.cpp** → Implementation of the `Point` class.
-- **Lab11.cpp** → Main driver program handling file input, quadrant analysis, and transformations.
+- **main.cpp** → Main driver program handling file input, quadrant analysis, and transformations.
 - **points.txt** → Sample data containing (x, y) coordinates.
 - **README.md** → This documentation.
 
 ## 🛠️ How to Compile and Run
 1. **Compile using g++ (GCC Compiler)**:
    ```sh
-   g++ -o quadrant_analysis Lab11.cpp Point.cpp
+   g++ -o quadrant_analysis main.cpp Point.cpp
    ```
 2. **Run the program**:
    ```sh
