@@ -13,9 +13,9 @@ This is a C++ program that reads 2D points from a file, analyzes their quadrant 
 - **README.md** → This documentation.
 
 ## 🛠️ How to Compile and Run
-1. **Compile using g++ (GCC Compiler)**:
+1. **Compile using g++ (LLVM Compiler)**:
    ```sh
-   g++ -o quadrant_analysis main.cpp Point.cpp
+   clang++ -o quadrant_analysis main.cpp Point.cpp
    ```
 2. **Run the program**:
    ```sh
