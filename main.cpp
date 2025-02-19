@@ -1,4 +1,3 @@
-//Lab 11
 //Jacob Goings
 
 #include <iostream>
