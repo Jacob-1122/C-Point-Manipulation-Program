@@ -33,8 +33,8 @@ Before running this program, ensure you have the following installed on your sys
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Jacob-1122/C-Point-Manipulation-Program.git
+   cd C-Point-Manipulation-Program
    ```
 
 2. **Run the Bash Script**:
