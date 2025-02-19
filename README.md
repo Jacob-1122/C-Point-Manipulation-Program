@@ -39,8 +39,8 @@ Before running this program, ensure you have the following installed on your sys
 
 2. **Run the Bash Script**:
    ```sh
-   chmod +x compile_run.sh
-   ./compile_run.sh
+   chmod +x compile.sh
+   ./compile.sh
    ```
 
 ## 📥 Input Format (points.txt)
