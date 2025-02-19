@@ -1,6 +1,4 @@
-**# C-Point-Manipulation-Program
-This is a C++ program that reads 2D points from a file, analyzes their quadrant positions, and performs transformations
-**# Quadrant Analysis and Point Manipulation Program
+# Quadrant Analysis and Point Manipulation Program
 
 ## 📌 Overview
 This is a C++ program that reads 2D points from a file, analyzes their quadrant positions, and performs transformations. The project applies object-oriented programming principles and spatial data processing techniques.
@@ -11,15 +9,20 @@ This is a C++ program that reads 2D points from a file, analyzes their quadrant 
 - **main.cpp** → Main driver program handling file input, quadrant analysis, and transformations.
 - **points.txt** → Sample data containing (x, y) coordinates.
 - **README.md** → This documentation.
+- **compile_run.sh** → Bash script to compile and run the program.
 
-## 🛠️ How to Compile and Run
-1. **Compile using g++ (LLVM Compiler)**:
+## 🛠️ How to Clone, Compile, and Run
+
+1. **Clone the repository**:
    ```sh
-   clang++ -o quadrant_analysis main.cpp Point.cpp
+   git clone https://github.com/Jacob-1122/Course_Management_System.git
+   cd Course_Management_System
    ```
-2. **Run the program**:
+
+2. **Run the Bash Script**:
    ```sh
-   ./quadrant_analysis
+   chmod +x compile_run.sh
+   ./compile_run.sh
    ```
 
 ## 📥 Input Format (points.txt)
